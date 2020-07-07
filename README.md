@@ -12,6 +12,7 @@ http-server .
 4.`cd` into `video/application_server/` and run `npm install && npm start`
 
 Note: check the output from ```http-server .``` command, Usually it is ```127.0.0.1:8080``` for the next step.
+
 5. Open a browser and type 127.0.0.1:8080, Repeat this step using a different browser. You should be able to see your self in both cases.
 
 # CST Training EMEA
